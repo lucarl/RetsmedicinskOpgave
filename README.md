@@ -14,7 +14,7 @@ To run this project, you will need the following installed:
 ### Installing
 1. Clone the repository to your local machine.
 
-`git clone https://github.com/your-username/project-name.git`
+`git clone https://github.com/lucarl/RetsmedicinskOpgave.git`
 
 2. Navigate to the root directory of the project and install the dependencies for the consumer application.
 
