@@ -39,7 +39,7 @@ To run this project, you will need the following installed:
 
 `cd flask-server`
 
-`python server.py`
+`python3 server.py runserver`
 
 # Built with 
 * React - JavaScript library for building user interfaces
